@@ -41,6 +41,54 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 14
+    },
+    {
+      "name": "Honey",
+      "image": "",
+      "price": "200",
+      "id": 15
     }
   ]
 }
