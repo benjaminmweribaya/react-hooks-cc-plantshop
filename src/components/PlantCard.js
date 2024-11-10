@@ -8,10 +8,10 @@ function PlantCard({ plant }) {
   };
 
   return (
-    <li className="card" data-testid="plant-item">
-      <img src={plant.image} alt={"plant.name"} />
+    <li className="card" data-testid="plant-item" key={plant.id}>
+      <img src={plant.image} alt={plant.name} />
       <h4>{plant.name}</h4>
-      <p>Price: ${plant.price}</p>
+      <p>Price: {plant.price}</p>
       <button className={isInStock ? "primary" : ""} onClick={toggleStock}>
         {isInStock ? "In Stock" : "Out of Stock"}
       </button>
